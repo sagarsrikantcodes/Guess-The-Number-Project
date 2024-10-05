@@ -14,6 +14,9 @@ too low, or correct. Players can also track their score and reset the game.
 - [Contact](#contact)
 
 ## Demo
+Below is the link for the webpage:
+https://sagarsrikantcodes.github.io/Guess-The-Number-Project/
+
 ![Demo Screenshot](Guess_The_Number_Initial_Setup.png)
 ![Demo Screenshor](Guess_The_Number_Winning_Setup.png)
 
