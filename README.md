@@ -29,10 +29,10 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/sagarsrikantcodes/Guess-The-Number-Project.git
 
 2. Navigate to the project directory:
-   cd repo
+   cd Guess_My_Number_Project
 
 ## Usage
 Open the index.html file in your browser to start playing the game. You can enter your guess in the input field and click "Check!" to see if you guessed correctly.
